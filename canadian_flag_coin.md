@@ -21,13 +21,9 @@ There were many trajectories for the Canadian flag design just as there are many
 
 If I were able to design a coin in commemoration of the Flag Debate I would release a series of coins with various designs submitted by Canadians.
 
-![Image](Canada_Flag_Coin_1.jpg)
+![Image](Canada_Flag_Coin_1.jpg)        ![Image](Canada_Flag_Coin_2.jpg)
 
-![Image](Canada_Flag_Coin_2.jpg)
-
-![Image](Canada_Flag_Coin_3.jpg)
-
-![Image](Canada_Flag_Coin_4.jpg)
+![Image](Canada_Flag_Coin_3.jpg)        ![Image](Canada_Flag_Coin_4.jpg)
 
 ![Image](Canada_Flag_Coin_5.jpg)
 
