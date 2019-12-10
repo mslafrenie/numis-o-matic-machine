@@ -22,9 +22,9 @@ Heritage Minute:
 # Canadian History and the Flag Debate
 
 Online Sources:
--	Canadian Flag Submission Flickr Set
--	Flag Day Flickr Set
--	Pearson Flag Speech
+-	https://www.flickr.com/photos/lac-bac/albums/72157650077428499
+-	https://www.collectionscanada.gc.ca/primeministers/h4-4028-e.html
+-	https://www.flickr.com/photos/lac-bac/albums/72157628349334739
 -	https://www.cbc.ca/archives/entry/first-official-canadian-flag-raised 
 -	https://thecanadianencyclopedia.ca/en/article/the-flag-distinctively-our-own-feature 
 -	https://thecanadianencyclopedia.ca/en/article/national-flag-of-canada-editorial
