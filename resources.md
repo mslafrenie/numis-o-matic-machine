@@ -1,7 +1,7 @@
 # LGBTQ2+ History in Canada
-
+[Link](url) and ![Image](src)
 Articles:
-- https://www.cbc.ca/news/canada/ottawa/archives-homosexuality-dector-fruit-machine-1.3833724
+- [Link](https://www.cbc.ca/news/canada/ottawa/archives-homosexuality-dector-fruit-machine-1.3833724) 
 -	https://globalnews.ca/news/5491739/gay-purge-victims-canada/
 -	https://www.cbc.ca/news/canada/toronto/loonie-lgbtq-1.5107077
 -	https://www.cbc.ca/news/politics/mint-coin-loonie-homosexual-rights-1.5095317
