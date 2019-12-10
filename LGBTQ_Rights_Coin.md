@@ -1,6 +1,6 @@
 # Picturing LGBTQ2+ Resistance
 
-![alternativetxt](/img/Equality-coin.jfif)
+![Image](Equality-coin.jfif)
 
 In the Spring of 2019, the Canadian Mint released a coin commemorating 50 years of LGBTQ2+ rights. The coin itself references the 1969 decriminalization of homosexuality and encourages Canadians to think about how much progress has been made in the last half-century. However, this coin leaves much to be desired and hides more than most Canadians realize. To celebrate fifty years of LGBTQ2+ when the Canadian Government actively discriminated against its own employees, firing thousands and destroying the lives of many is disingenuous and inaccurate to say the least. So, what is Canada’s relationship with LGBTQ2+ communities and why are so many people upset about this coin?
 
@@ -22,4 +22,4 @@ Although it may seem like resistance was impossible, there are many stories of r
 
 To be candid, if I had the option, I would choose not to mint this coin at all. It is dishonest and erases the struggles of LGBTQ2+ communities in Canada. However, if I were to redesign this coin there are two options I would consider: celebrating LGBTQ resistance to the Purge or changing the dates to reflect what we’re truly commemorating. In the case of commemorating queer resistance, I would turn to queer communities today and ask them what symbols are important to them. So, my design would feature a pink triangle (referencing the Act Up! Movement and the Nazi prisoners of war) and the words, “Resist, Reform, Remember” 1950-1990. In the second scenario, my coin would read: “Reform for Equality,” 1988-2019.
 
-![alternativetxt](/img/LGBTQ_Coin.jpg)
+![Image](LGBTQ_Coin.jpg)
