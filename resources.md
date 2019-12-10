@@ -40,7 +40,7 @@ Articles:
 - [The Great Flag Debate](https://diefenbaker.usask.ca/johngdief/the-great-flag-debate.php)
 
 Heritage Minutes:
--	[Flags]https://www.historicacanada.ca/content/heritage-minutes/flags)
+-	[Flags](https://www.historicacanada.ca/content/heritage-minutes/flags)
 
 *   *   *   *
 
