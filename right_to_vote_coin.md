@@ -1,6 +1,6 @@
 # Creating an Inclusive Timeline
 
-![alternativetxt](/img/1916-right-to-vote-coin.png)
+![Image](1916-right-to-vote-coin.png)
 
 100 years of women’s voting rights huh? In 2016, the Government of Canada decided to commemorate the 100th anniversary of women’s right to vote by commissioning a coin.  The design of the coin features an adult woman and a young girl at a ballot box casting her vote, symbolically linking past female voters with future female voters. So, who or what are we commemorating with this coin? How does your perspective change when you learn that women were not considered people until 1929—thirteen years after the date this coin celebrates?
 
