@@ -1,6 +1,6 @@
 # Fracturing Canadian Identity
 
-![alternativetxt](/img/2015-canada-25-cent-flag-coins.jpg)
+![Image](img/2015-canada-25-cent-flag-coins.jpg)
 
 Much of what is considered to be quintessentially Canadian in the 21st century has a relatively short history dating back to the Cold War: The Charter of Rights and Freedoms, the Constitution, the National Anthem, and the Canadian Flag to name a few. Very seldom do we explore how these symbols came about and whether or not they actually represent all Canadians.
 
@@ -21,13 +21,13 @@ There were many trajectories for the Canadian flag design just as there are many
 
 If I were able to design a coin in commemoration of the Flag Debate I would release a series of coins with various designs submitted by Canadians.
 
-![alternativetxt](/img/Canada_Flag_Coin_1.jpg)
+![Image](Canada_Flag_Coin_1.jpg)
 
-![alternativetxt](/img/Canada_Flag_Coin_2.jpg)
+![Image](Canada_Flag_Coin_2.jpg)
 
-![alternativetxt](/img/Canada_Flag_Coin_3.jpg)
+![Image](Canada_Flag_Coin_3.jpg)
 
-![alternativetxt](/img/Canada_Flag_Coin_4.jpg)
+![Image](Canada_Flag_Coin_4.jpg)
 
-![alternativetxt](/img/Canada_Flag_Coin_5.jpg)
+![Image](Canada_Flag_Coin_5.jpg)
 
