@@ -16,5 +16,5 @@ We can only answer the previous questions by digging into the history of women�
 
 If I were to re-design the coin, I might do one of two things: I would change the dates or clarify the title. To change the timeline, I would make the coin read: “Women’s Right to Vote” 1916-1960. Alternatively, if I were to tweak the title, I would write something like: “Struggling for the Vote” 1916-2016. 
 
-![alternativetxt](/img/Women_Voting_Rights_Coin.jpg)
+![Image](Women_Voting_Rights_Coin.jpg)
 
