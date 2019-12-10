@@ -1,6 +1,6 @@
 # Fracturing Canadian Identity
 
-![Image](img/2015-canada-25-cent-flag-coins.jpg)
+![Image](2015-canada-25-cent-flag-coins.jpg)
 
 Much of what is considered to be quintessentially Canadian in the 21st century has a relatively short history dating back to the Cold War: The Charter of Rights and Freedoms, the Constitution, the National Anthem, and the Canadian Flag to name a few. Very seldom do we explore how these symbols came about and whether or not they actually represent all Canadians.
 
